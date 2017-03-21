@@ -4,4 +4,5 @@
 
 | Command | Description
 | ------- | -----------
- `git checkout -- <file>` | Rever local changes to file before commit
+ `git checkout -- <file>` | Revert local changes to file before commit.
+ `git reset HEAD <file>` | Unstage a staged file.

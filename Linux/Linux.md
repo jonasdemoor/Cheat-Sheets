@@ -6,3 +6,13 @@
 | ------- | -----------
  `git checkout -- <file>` | Revert local changes to file before commit.
  `git reset HEAD <file>` | Unstage a staged file.
+
+## VIM
+
+# Buffer management
+
+| Command | Description
+| ------- | -----------
+`:ls` | Display a list of open buffers
+`:b <buffer>` | Switches to open buffer <buffer>
+`:bd <buffer>` | Deletes current or specified <buffer>

@@ -9,7 +9,7 @@
 
 ## VIM
 
-# Buffer management
+### Buffer management
 
 | Command | Description
 | ------- | -----------

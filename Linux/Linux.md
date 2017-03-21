@@ -14,5 +14,5 @@
 | Command | Description
 | ------- | -----------
 `:ls` | Display a list of open buffers
-`:b <buffer>` | Switches to open buffer <buffer>
-`:bd <buffer>` | Deletes current or specified <buffer>
+`:b <buffer>` | Switches to open buffer 
+`:bd <buffer>` | Deletes current or specified buffer 

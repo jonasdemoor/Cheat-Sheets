@@ -9,6 +9,8 @@ A cheat sheet with handy commands and shortcuts for Windows & Windows Server.
 `Win + R`  | Run
 `Win + E`  | Windows Explorer
 `Win + P`  | Project screen
+`Win + X`  | Power user menu
+`Ctrl + Shift + Esc` | Open Task Manager in RDP session
 
 ## Run commands
 
@@ -20,3 +22,4 @@ A cheat sheet with handy commands and shortcuts for Windows & Windows Server.
 `diskmgmt.msc` | Disk Management
 `services.msc` | Services
 `msconfig.exe` | System Configuration
+`logoff` | Log out from (remote) session

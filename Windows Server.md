@@ -1,4 +1,4 @@
-# Shortcuts & Applications
+# Windows Server
 
 A cheat sheet with handy commands and shortcuts for Windows & Windows Server.
 

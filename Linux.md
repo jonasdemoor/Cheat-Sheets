@@ -35,4 +35,4 @@
 | Command | Description
 | ------- | -----------
 `=` | Fix text indentation (e.g. `gg=GG`: go to beginning, fix indentation, move to EOF)
-
+`:%s/\s\+$//e` | Remove trailing whitespace

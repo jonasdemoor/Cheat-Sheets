@@ -30,6 +30,12 @@
 `:b <buffer>` | Switches to open buffer 
 `:bd <buffer>` | Deletes current or specified buffer 
 
+### Searching
+
+| Command | Description
+| ------- | -----------
+`%s/foo/bar/g` | Find each occurrence of 'foo' (in all lines), and replace it with 'bar'
+
 ### Formatting
 
 | Command | Description
